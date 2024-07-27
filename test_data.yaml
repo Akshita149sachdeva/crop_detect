@@ -1,0 +1,9 @@
+path: /Users/akshitasachdeva/Desktop/yolov8/data  # dataset root dir
+val: images/train  # validation images (relative to 'path')
+test: images/test  # test images (relative to 'path')
+
+# number of classes
+nc: 3
+
+# class names
+names: ['maize', 'paddy','banana']
